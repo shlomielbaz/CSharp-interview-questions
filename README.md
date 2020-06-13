@@ -8,17 +8,28 @@ Coding interview questions and solutions
   </li>
   
   <li>
-    stack that accepts the following commands and performs the operations described:<br />
+    Implement a stack that accepts the following commands and performs the operations described:<br />
     <ul>
       <li><i>push v</i>: Push integer <i>v</i> onto the top of the stack.</li>
       <li><i>pop</i>: Pop the top element from the stack.</li>
       <li><i>inc i v</i>: Add <i>v</i> to each of the bottom <i>i</i> elements of the stack.</li>
     </ul>
-    After each operation, print the value at the top of the stack. if the stack is empty, print the string <i>EMPTY</i><br />
+    After each operation, print the value at the top of the stack. if the stack is empty, print the string <i>EMPTY</i> <a href="https://github.com/shlomisderot/interview-questions/blob/master/super-stack.JPG">see an image elustration</a><br />
     Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/superStack.cs">superStack.cs</a>
+  
   </li>
   <li>
   Implement a function that gets an integer and returns the smallest amount of banknotes that cover the input.<br />
   Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/smallestAmountOfBanknotes.cs">smallestAmountOfBanknotes.cs</a>
+  </li>
+  
+  <li>
+  Fewest coins <a href="https://github.com/shlomisderot/interview-questions/blob/master/fewest-coins.JPG">see an image elustration</a><br />
+    Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/FewestCoins.cs">fewest-coins.cs</a>
+  </li>
+  
+  <li>
+  Polindrome Counter <a href="https://github.com/shlomisderot/interview-questions/blob/master/polindrome-counter.JPG">see an image elustration</a><br />
+    Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/PolindromeCounter.cs">fewest-coins.cs</a>
   </li>
 </ol>
