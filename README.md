@@ -3,7 +3,7 @@ Coding interview questions and solutions
 
 <ol>
   <li>
-    <b>A longest string between digits</b> - implement a function that gets a string and prints the longest a part from string that contains at list one upper case character but not a digit<br />
+    <b>The longest string between digits</b> - implement a function that gets a string and prints the longest a part from string that contains at list one upper case character but not a digit<br />
     Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/longestString.cs">longestString.cs</a>
   </li>
   
