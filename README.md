@@ -30,6 +30,6 @@ Coding interview questions and solutions
   
   <li>
   Polindrome Counter <a href="https://github.com/shlomisderot/interview-questions/blob/master/polindrome-counter.JPG">see an image elustration</a><br />
-    Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/PolindromeCounter.cs">fewest-coins.cs</a>
+    Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/polindrome-counter.cs">polindrome-counter.cs</a>
   </li>
 </ol>
