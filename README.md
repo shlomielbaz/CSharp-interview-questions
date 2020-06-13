@@ -36,6 +36,5 @@ Coding interview questions and solutions
   <li>
   <b>Hourglass sum</b> <a href="https://github.com/shlomisderot/interview-questions/blob/master/hourglass-sum.jpg">see an image illustration</a><br />
     Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/hourglass-sum.cs">hourglass-sum.cs</a>
-  hourglassSum
   </li>
 </ol>
