@@ -13,7 +13,7 @@ Coding interview questions and solutions
       <li><i>pop</i>: Pop the top element from the stack.</li>
       <li><i>inc i v</i>: Add <i>v</i> to each of the bottom <i>i</i> elements of the stack.</li>
     </ul>
-    After each operation, print the value at the top of the stack. if the stack is empty, print the string <i>EMPTY</i>
+    After each operation, print the value at the top of the stack. if the stack is empty, print the string <i>EMPTY</i><br />
     Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/superStack.cs">superStack.cs</a>
   </li>
 </ol>
