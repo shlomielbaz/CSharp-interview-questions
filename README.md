@@ -37,4 +37,16 @@ Coding interview questions and solutions
   <b>Hourglass sum</b> <a href="https://github.com/shlomisderot/interview-questions/blob/master/hourglass-sum.jpg">see an image illustration</a><br />
     Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/hourglass-sum.cs">hourglass-sum.cs</a>
   </li>
+  
+  <li>
+  <b>Alien Username</b> - In a galaxy far, far away, on a planet different from ours, each computer username uses the following format:<br />
+  It must begin with either an underscore, _ (ASCII value ), or a period, . (ASCII value ).<br />
+  The first character must be immediately followed by one or more digits in the range  through .<br />
+  After some number of digits, there must be  or more English letters (uppercase and/or lowercase).<br />
+  It may be terminated with an optional _ (ASCII value ). Note that if it's not terminated with an underscore, then there should be no characters after the sequence of  or more English letters.<br />
+  Given  strings, determine which ones are valid alien usernames. If a string is a valid alien username, print VALID on a new line; otherwise, print INVALID.<br /><br />
+  
+  <a href="https://github.com/shlomisderot/interview-questions/blob/master/alien-username.jpg">see an image illustration</a><br />
+    Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/alien-username.cs">alien-username.cs</a>
+  </li>
 </ol>
