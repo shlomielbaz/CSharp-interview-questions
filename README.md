@@ -47,10 +47,10 @@ Coding interview questions and solutions
   Given  strings, determine which ones are valid alien usernames. If a string is a valid alien username, print VALID on a new line; otherwise, print INVALID. <a href="https://github.com/shlomisderot/interview-questions/blob/master/alien-username.png">see an image illustration</a><br />
     Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/alien-username.cs">alien-username.cs</a>
   </li>
+  
+  <li>
   <b>Reverse polish notation</b>
   
   Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/reverse-polish-notation.cs">reverse-polish-notation.cs</a>
-  <li>
-  
   </li>
 </ol>
