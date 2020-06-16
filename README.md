@@ -49,7 +49,7 @@ Coding interview questions and solutions
   </li>
   
   <li>
-  <b>Reverse polish notation</b>
+  <b>Reverse polish notation</b> - Your job is to create a calculator which evaluate expressions in Reverse Polish notation, for example expression 5 1 2 + 4 * + 3 - (which is equivalent to 5 + ((1 + 2) * 4) - 3 in normal notation) should evaluate to 14. <a href="https://github.com/shlomisderot/interview-questions/blob/master/reverse-polish-notation.png">see an image illustration</a><br />
   
   Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/reverse-polish-notation.cs">reverse-polish-notation.cs</a>
   </li>
