@@ -34,8 +34,8 @@ public class Program
 		if (children is JArray)
 		{
 			level = level + 1;
+			
 			foreach (JObject child in children) {
-				
 				
 				JToken li = child.GetValue("tag");
 				JToken text = child.GetValue("text");
@@ -43,6 +43,7 @@ public class Program
 				
 				if (child.ContainsKey("children")) {
 					result += String.Format("{0}<{1}>{2}\n", space, li, text);
+					
 					stack.Push(String.Format("{0}</{1}>\n", space, li));
 					
 					return Program.jsonTreeToHTMLList(
