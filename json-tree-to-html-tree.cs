@@ -68,8 +68,8 @@ public class Program
 	{
 		JObject rss = new JObject(
 			new JProperty("tag", "ul"),
-        	new JProperty("children",
-            	new JArray(
+        		new JProperty("children",
+         	   		new JArray(
 					new JObject(
 						new JProperty("tag", "li"),
 						new JProperty("text", "text 1")
@@ -82,22 +82,21 @@ public class Program
 						new JProperty("tag", "li"),
 						new JProperty("text", "text 3"),
 						new JProperty("children",
-								new JObject(
-									new JProperty("tag", "ul"),
-									new JProperty("children",
-										new JArray(
-											new JObject(
-												new JProperty("tag", "li"),
-												new JProperty("text", "text 3.1")
-											),									
-											new JObject(
-												new JProperty("tag", "li"),
-												new JProperty("text", "text 3.2")
-											),									
-											new JObject(
-												new JProperty("tag", "li"),
-												new JProperty("text", "text 3.3")
-											)
+							new JObject(
+								new JProperty("tag", "ul"),
+								new JProperty("children",
+									new JArray(
+										new JObject(
+											new JProperty("tag", "li"),
+											new JProperty("text", "text 3.1")
+										),									
+										new JObject(
+											new JProperty("tag", "li"),
+											new JProperty("text", "text 3.2")
+										),									
+										new JObject(
+											new JProperty("tag", "li"),
+											new JProperty("text", "text 3.3")
 										)
 									)
 								)
@@ -105,8 +104,8 @@ public class Program
 						)
 					)
 				)
-			);
-		
+			)
+		);
 		Console.WriteLine(Program.jsonTreeToHTMLList(rss));
 	}
 }
