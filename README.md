@@ -56,4 +56,9 @@ Coding interview questions and solutions
   <b>Order weight</b> - You are provided a string containing a list of positive integers seperated by a space (" "). Take each value and calculate the sum of its digits, which we call it's "weight", then return the list in asending order by weight as a string joined by space. <a href="https://github.com/shlomisderot/interview-questions/blob/master/order-weight.png">see an image illustration</a><br />
   Code file: <a href="https://github.com/shlomisderot/interview-questions/blob/master/order-weight.cs">order-weight.cs</a>
   </li>
+
+  <li>
+    <b>Is balanced brackets</b> - write a function gets a string and checks if is balanced brackets, e.g.: isBalanced("(a{[]}){}([])"); will returnces true!<br />
+    Code file: <a href="is-balanced-brackets.cs">is-balanced-brackets.cs</a>
+  </li>
 </ol>
